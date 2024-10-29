@@ -40,3 +40,4 @@ E:\Hisamuddin\Projects\Repo-1\TodoApi\obj\Debug\net8.0\refint\TodoApi.dll
 E:\Hisamuddin\Projects\Repo-1\TodoApi\obj\Debug\net8.0\TodoApi.pdb
 E:\Hisamuddin\Projects\Repo-1\TodoApi\obj\Debug\net8.0\TodoApi.genruntimeconfig.cache
 E:\Hisamuddin\Projects\Repo-1\TodoApi\obj\Debug\net8.0\ref\TodoApi.dll
+E:\Hisamuddin\Projects\Repo-1\todoapi\obj\Debug\net8.0\TodoApi.sourcelink.json
