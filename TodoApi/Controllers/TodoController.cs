@@ -1,5 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
-using TodoApi.Models;
+using TodoApi.Infrastructure;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -9,7 +9,7 @@ using Microsoft.EntityFrameworkCore;
 [ApiController]
 public class TodoController : ControllerBase
 {
-    private readonly TodoContext _context;
+    private readonly    TodoContext _context;
 
     public TodoController(TodoContext context)
     {
